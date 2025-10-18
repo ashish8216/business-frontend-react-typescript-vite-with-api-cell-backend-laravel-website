@@ -5,7 +5,6 @@ export default function FAQ() {
   return (
     <>
       <title>Frequently Asked Questions</title>
-      <link rel="canonical" href="https://asiannepalinterior.com/faq" />
 
       <Breadcrumb
         title="Frequently Asked Questions"

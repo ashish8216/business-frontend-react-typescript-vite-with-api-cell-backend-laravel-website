@@ -11,10 +11,6 @@ export default function Tag() {
   return (
     <>
       <title>{tag?.name ?? "Tag"}</title>
-      <link
-        rel="canonical"
-        href={`https://asiannepalinterior.com/tag/${tag?.slug ?? ""}`}
-      />
 
       {tag && (
         <Breadcrumb

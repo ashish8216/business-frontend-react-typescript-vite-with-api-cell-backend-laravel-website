@@ -3,7 +3,6 @@ export const Navigation = [
   { name: "About Us", path: "/about" },
   { name: "Services", path: "/services" },
   { name: "Products", path: "/shop" },
-  { name: "Project", path: "/projects" },
   { name: "Download", path: "/download" },
   { name: "Team", path: "/team" },
   { name: "Faq", path: "/faq" },

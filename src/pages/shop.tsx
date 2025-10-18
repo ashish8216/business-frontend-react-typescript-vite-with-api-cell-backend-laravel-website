@@ -5,7 +5,6 @@ export default function Shop() {
   return (
     <>
       <title>Product</title>
-      <link rel="canonical" href="https://asiannepalinterior.com/shop" />
 
       <Breadcrumb
         title="Product"

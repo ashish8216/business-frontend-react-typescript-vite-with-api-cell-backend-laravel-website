@@ -13,10 +13,6 @@ export default function Product() {
   return (
     <>
       <title>{product.name}</title>
-      <link
-        rel="canonical"
-        href={`https://asiannepalinterior.com/product/${product.slug}`}
-      />
 
       <Breadcrumb
         title={product.name}

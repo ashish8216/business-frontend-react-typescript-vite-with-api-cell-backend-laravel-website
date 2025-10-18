@@ -5,7 +5,6 @@ export default function Contact() {
   return (
     <>
       <title>Contact us</title>
-      <link rel="canonical" href="https://asiannepalinterior.com/contact" />
 
       <Breadcrumb
         title="Contact us"

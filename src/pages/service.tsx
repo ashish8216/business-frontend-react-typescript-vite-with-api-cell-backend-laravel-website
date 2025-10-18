@@ -13,10 +13,6 @@ export default function ProjectOne() {
   return (
     <>
       <title>{service.title}</title>
-      <link
-        rel="canonical"
-        href={`https://asiannepalinterior.com/service/${service.slug}`}
-      />
 
       <Breadcrumb
         title={service.title}

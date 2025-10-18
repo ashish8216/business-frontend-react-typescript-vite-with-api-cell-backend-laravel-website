@@ -5,7 +5,6 @@ export default function About() {
   return (
     <>
       <title>About us</title>
-      <link rel="canonical" href="https://asiannepalinterior.com/about" />
 
       <Breadcrumb
         title="About us"

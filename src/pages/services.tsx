@@ -5,7 +5,6 @@ export default function Services() {
   return (
     <>
       <title>Services</title>
-      <link rel="canonical" href="https://asiannepalinterior.com/services" />
 
       <Breadcrumb
         title="Services"

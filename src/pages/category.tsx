@@ -14,10 +14,7 @@ export default function Category() {
   return (
     <>
       <title>{category?.name ?? "Categories"}</title>
-      <link
-        rel="canonical"
-        href={`https://asiannepalinterior.com/category/${category?.slug ?? ""}`}
-      />
+
       <meta
         name="description"
         content={`Welcome to ${category?.name ?? "our store"}`}

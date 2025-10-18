@@ -11,7 +11,6 @@ export default function Videos() {
   return (
     <>
       <title>Videos</title>
-      <link rel="canonical" href="https://asiannepalinterior.com/videos" />
 
       <Breadcrumb
         title="Videos"

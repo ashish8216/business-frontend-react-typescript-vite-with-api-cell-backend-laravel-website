@@ -9,8 +9,6 @@ export { default as Services } from "../pages/services";
 export { default as Contact } from "../pages/contact";
 export { default as Error } from "../pages/error";
 export { default as Service } from "../pages/service";
-export { default as Projects } from "../pages/projects";
-export { default as Project } from "../pages/project";
 export { default as FAQ } from "../pages/faq";
 export { default as Download } from "../pages/download";
 export { default as Videos } from "../pages/videos";
