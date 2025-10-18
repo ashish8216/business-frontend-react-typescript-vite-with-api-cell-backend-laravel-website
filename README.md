@@ -18,13 +18,7 @@ This setup follows a **headless architecture** — where the React app consumes 
 
 # Setup the React Frontend
 
-cd ../frontend
-
 npm install
-
-# Setup src/api/:
-
-http://127.0.0.1:8000/api/
 
 # Start the Vite development server:
 
