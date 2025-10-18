@@ -19,6 +19,7 @@ This setup follows a **headless architecture** — where the React app consumes 
 # Setup the React Frontend
 
 cd ../frontend
+
 npm install
 
 # Setup src/api/:
