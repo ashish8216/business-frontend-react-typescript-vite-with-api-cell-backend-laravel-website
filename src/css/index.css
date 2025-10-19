@@ -6,17 +6,18 @@
 
 @layer utilities {
   .container {
-    @apply mx-auto w-full sm:max-w-[540px] md:max-w-[720px] lg:max-w-[960px] xl:max-w-[1140px] 2xl:max-w-[1320px];
+    @apply mx-auto w-full px-[16px]
+    sm:max-w-[540px] md:max-w-[720px] lg:max-w-[960px]
+    xl:max-w-[1140px] 2xl:max-w-[1320px];
   }
-  .container-fluid,
-  .container {
-    @apply px-[10px];
+  .container-fluid {
+    @apply mx-auto w-full px-[16px];
   }
   * {
     @apply m-0 p-0;
   }
   img {
-    @apply w-full max-w-full;
+    @apply w-full h-auto;
   }
   table {
     @apply w-full;
@@ -28,7 +29,7 @@
     @apply border-2 border-solid border-gray-300;
   }
   p {
-    @apply text-justify mt-0 p-[4px] text-base sm:text-lg;
+    @apply text-justify mt-0  py-[4px] text-base sm:text-lg;
   }
   body {
     @apply text-base sm:text-lg bg-white;
@@ -63,6 +64,6 @@
   h4,
   h5,
   h6 {
-    @apply text-[#ec1a23] font-bold px-0 py-5;
+    @apply text-[#006630] font-bold px-0 py-5;
   }
 }
