@@ -39,19 +39,18 @@ export default function Aboutone() {
           </h2>
 
           <p className="mb-4 font-semibold text-gray-700">
-            Asian Nepal Interior and Exterior Pvt. Ltd. is a reputed company in
-            Nepal that provides a wide range of services, including interior and
-            exterior design, construction, renovation, and maintenance for both
-            residential and commercial properties.
+            ABC is a reputed company in Nepal that provides a wide range of
+            services, including interior and exterior design, construction,
+            renovation, and maintenance for both residential and commercial
+            properties.
           </p>
 
           <p className="mb-6 leading-relaxed text-gray-600">
-            With a team of experienced professionals, Asian Nepal Interior and
-            Exterior Pvt. Ltd. is committed to delivering high-quality services
-            that meet the unique needs and preferences of its clients. The
-            company uses the latest technology and materials to ensure that
-            every project is completed to the highest standards of quality and
-            durability.
+            With a team of experienced professionals, ABC is committed to
+            delivering high-quality services that meet the unique needs and
+            preferences of its clients. The company uses the latest technology
+            and materials to ensure that every project is completed to the
+            highest standards of quality and durability.
           </p>
 
           <Link to="/about">

@@ -3,11 +3,10 @@ export default function AboutText() {
     <div className="container mb-8">
       <h2>About Us</h2>
       <p>
-        Asian Nepal Interior and Exterior Pvt. Ltd. is a reputed company in
-        Nepal that provides a wide range of services, including interior and
-        exterior design, construction, renovation, and project management. Our
-        experienced team is dedicated to delivering quality solutions tailored
-        to your needs.
+        ABC is a reputed company in Nepal that provides a wide range of
+        services, including interior and exterior design, construction,
+        renovation, and project management. Our experienced team is dedicated to
+        delivering quality solutions tailored to your needs.
       </p>
     </div>
   );

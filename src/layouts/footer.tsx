@@ -41,12 +41,11 @@ export default function Footer() {
           <Row>
             <H2 title="About us" />
             <p>
-              Asian Nepal Interior Pvt. Ltd. is a trusted name in the field of
-              interior design and turnkey project execution in Nepal. Based in
-              Madhyapur Thimi-1, Lokanthali, Bhaktapur, we specialize in
-              transforming residential, commercial, and institutional spaces
-              into stunning environments that reflect elegance, comfort, and
-              functionality.
+              ABC is a trusted name in the field of interior design and turnkey
+              project execution in Nepal. Based in Kathmandu, Nepal, we
+              specialize in transforming residential, commercial, and
+              institutional spaces into stunning environments that reflect
+              elegance, comfort, and functionality.
             </p>
           </Row>
 
